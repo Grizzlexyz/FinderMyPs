@@ -15,4 +15,6 @@ powershell -ExecutionPolicy Bypass -Command "irm [https://raw.githubusercontent.
 ```
 # Importante 
 Você precisara de um arquivo.txt com senhas para que o Bot possa utilizá-las como base
-"nano senhas.txt" > cole as senhas ou escreva tu escolhe > salve o arquivo > informe ao bot o nome do arquivo 
+"**nano senhas.txt**" > cole as senhas ou escreva tu escolhe > salve o arquivo > informe ao bot o nome do arquivo 
+
+Se o Bot conseguir a senha correta ele salva num arquivo chamado "**sucesso.txt**" dai e so tu abrir ele com "**nano sucesso.txt**"
