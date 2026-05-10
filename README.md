@@ -7,7 +7,10 @@ Você não precisa baixar nada manualmente. O comando abaixo irá:
 
 ### Passo a Passo:
 
-1. Clique no menu Iniciar, digite **PowerShell** e abra-o.
+1. Pressione Win + R
+Digite:
+**powershell**
+Pressione Enter.
 2. Copie e cole o comando abaixo e aperte **Enter**:
 
 ```powershell
